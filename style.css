@@ -65,3 +65,26 @@ footer small{display:block;margin-top:30px;color:#9d9387;border-top:1px solid #3
 .notice{background:var(--soft);border-radius:14px;padding:12px 16px;font-size:.88rem;color:var(--mute);margin:18px 0}
 @media(max-width:820px){.feat{grid-template-columns:1fr}.feat .thumb{min-height:160px}}
 @media(max-width:820px){.hero .wrap,.band,footer .cols{grid-template-columns:1fr}.stack{height:300px}nav{display:none}.hero{padding-top:40px}}
+
+/* ---- posts / SEO / AEO blocks ---- */
+.article{max-width:760px;margin:0 auto;padding:44px 20px 20px}
+.article h1{font-size:clamp(2rem,4.4vw,3rem);margin:10px 0 14px}
+.article h2{margin-top:1.8em;font-size:clamp(1.4rem,2.6vw,1.8rem)}
+.article h3{margin-top:1.4em;font-family:'Fraunces',Georgia,serif}
+.article p,.article li{font-size:1.06rem;color:#2d2621}
+.article a{color:var(--acc)}
+.crumbs{font-size:.85rem;color:var(--mute);margin-bottom:6px}.crumbs a{color:var(--mute)}
+.byline{font-size:.88rem;color:var(--mute);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.disclose{background:var(--soft);border-radius:14px;padding:12px 16px;font-size:.9rem;color:#4a4038;margin:18px 0}
+.answer{background:#fff;border:1px solid var(--line);border-left:5px solid var(--acc);border-radius:14px;padding:18px 20px;margin:22px 0}
+.answer b.lbl{display:block;font-size:.76rem;letter-spacing:.12em;text-transform:uppercase;color:var(--acc);margin-bottom:6px}
+.answer p{margin:0}
+.tbl{overflow-x:auto;margin:18px 0}
+.tbl table{border-collapse:collapse;width:100%;font-size:.93rem;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.tbl th,.tbl td{padding:10px 12px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+.tbl th{background:var(--soft);font-weight:600}
+.method{font-size:.88rem;color:var(--mute);border-top:1px solid var(--line);margin-top:34px;padding-top:14px}
+.cta-box{background:var(--acc2);color:#f4eee4;border-radius:20px;padding:24px 26px;margin:30px 0;display:flex;gap:16px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.cta-box p{margin:0;color:#f4eee4}.cta-box .btn{background:#fff;color:var(--ink)}.cta-box .btn:hover{background:var(--acc);color:#fff}
+.go{min-height:60vh;display:grid;place-items:center;text-align:center;padding:40px 20px}
+.go .box{max-width:460px}

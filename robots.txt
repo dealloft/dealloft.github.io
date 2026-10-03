@@ -1,0 +1,66 @@
+# Search and AI answer-engine crawlers are welcome. Only the affiliate redirect page is excluded.
+User-agent: Googlebot
+Allow: /
+Disallow: /go.html
+
+User-agent: Bingbot
+Allow: /
+Disallow: /go.html
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /go.html
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /go.html
+
+User-agent: GPTBot
+Allow: /
+Disallow: /go.html
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /go.html
+
+User-agent: Claude-User
+Allow: /
+Disallow: /go.html
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /go.html
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /go.html
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /go.html
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /go.html
+
+User-agent: Applebot
+Allow: /
+Disallow: /go.html
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /go.html
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /go.html
+
+User-agent: CCBot
+Allow: /
+Disallow: /go.html
+
+User-agent: *
+Allow: /
+Disallow: /go.html
+
+Sitemap: https://dealloft.github.io/sitemap.xml

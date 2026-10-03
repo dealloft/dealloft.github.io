@@ -1,0 +1,24 @@
+{
+ "_help": "id -> brand. 'url' is the brand's public site (used if 'aff' is empty). 'aff' is your UpPromote affiliate link, 'aff_backup' an optional second link shown on the redirect page. Never put passwords or tokens here.",
+ "retroid": {
+  "name": "Retroid",
+  "url": "https://www.goretroid.com/",
+  "aff": "https://www.goretroid.com?sca_ref=9889864.sESDYDakkk"
+ },
+ "kinglou": {
+  "name": "King Lou Pets",
+  "url": "https://kingloupets.com/",
+  "aff": "https://kingloupets.com?sca_ref=10062305.4Dtw8FxTnXNB9yp4",
+  "aff_backup": "https://kingloupets.com/10062305"
+ },
+ "peekaboo": {
+  "name": "Peekaboo Pillow",
+  "url": "https://peekaboopillow.com/",
+  "aff": ""
+ },
+ "andover": {
+  "name": "Andover Audio",
+  "url": "https://www.andoveraudio.com/",
+  "aff": ""
+ }
+}

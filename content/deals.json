@@ -1,0 +1,30 @@
+[
+ {
+  "brand": "kinglou",
+  "cat": "family",
+  "offer": "Free shipping on orders of $60 or more. Treats start at about $25. Code from our partnership; any discount shows at checkout.",
+  "code": "TOMSP27",
+  "checked": "2026-10-03"
+ },
+ {
+  "brand": "andover",
+  "cat": "tech",
+  "offer": "60-day in-home trial and free shipping on orders of $100 or more.",
+  "code": "",
+  "checked": "2026-10-03"
+ },
+ {
+  "brand": "peekaboo",
+  "cat": "family",
+  "offer": "Original listed at $139 (was $169). Plush listed at $119 (was $149).",
+  "code": "",
+  "checked": "2026-10-03"
+ },
+ {
+  "brand": "retroid",
+  "cat": "tech",
+  "offer": "Pocket 5 listed at $179 (was $209); Pocket Classic at $99 (was $149). Showed as sold out when checked.",
+  "code": "",
+  "checked": "2026-10-03"
+ }
+]

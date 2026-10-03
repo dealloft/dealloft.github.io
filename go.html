@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Taking you to the store: Dealloft</title><meta name="description" content="Redirecting to the retailer.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css"><meta name="robots" content="noindex,nofollow"></head><body>
+<div class="disc">Some links on this site are affiliate links. We may earn a commission at no extra cost to you. <a href="disclosure.html">Learn more</a></div>
+<header class="top"><div class="wrap"><a class="logo" href="index.html"><i></i>Dealloft</a>
+<nav><a href="deals.html" class="">Deals</a><a href="blog.html" class="">Blog</a><a href="about.html" class="">About</a><a href="contact.html" class="">Contact</a></nav>
+<a class="btn" href="deals.html">Browse deals</a></div></header>
+<main class="go"><div class="box"><h1 style="font-size:2rem" id="t">Taking you to the store&hellip;</h1>
+<p id="m" style="color:var(--mute)">This link may be an affiliate link. We may earn a commission if you buy, at no extra cost to you.</p>
+<p><a class="btn" id="b" href="index.html" rel="sponsored nofollow noopener">Continue</a></p>
+<p id="bk" style="display:none;font-size:.9rem"><a id="bka" href="#" rel="sponsored nofollow noopener">Link not working? Try the backup link</a></p></div></main><footer><div class="wrap"><div class="cols"><div><a class="logo" style="color:#fff" href="index.html"><i></i>Dealloft</a><p style="max-width:28em;margin-top:12px">Guides and deals for everyday shopping. Clear terms, sources cited, no pressure.</p></div>
+<div><h4>Explore</h4><a href="deals.html">Deals</a><a href="blog.html">Blog</a><a href="about.html">About</a></div>
+<div><h4>Legal</h4><a href="disclosure.html">Affiliate disclosure</a><a href="privacy.html">Privacy</a><a href="contact.html">Contact</a></div></div>
+<small>&copy; 2026 Dealloft. We earn commissions from some links. Prices and offers can change; always check the retailer's page.</small></div></footer>
+<script src="data.js"></script><script src="app.js"></script>
+<script>(function(){var id=new URLSearchParams(location.search).get('b');var b=BRANDS[id];
+if(!b){document.getElementById('t').textContent='Link not found';document.getElementById('b').textContent='Back to home';return}
+var u=b.aff||b.url;document.getElementById('t').textContent='Taking you to '+b.name+'\u2026';
+var a=document.getElementById('b');a.href=u;a.textContent='Continue to '+b.name;if(b.aff2){document.getElementById('bk').style.display='block';document.getElementById('bka').href=b.aff2}
+setTimeout(function(){location.replace(u)},1200)})()</script>

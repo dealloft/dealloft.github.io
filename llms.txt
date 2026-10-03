@@ -1,0 +1,9 @@
+# Dealloft
+
+> Plain-English product guides and store offers, with sources and affiliate disclosure.
+
+## Guides
+- [Andover Audio SpinBase 2: Specs, Price and Who This Turntable Speaker Is For](https://dealloft.github.io/posts/andover-audio-spinbase-2-guide.html): Specs, price, inputs and trial terms for the Andover SpinBase 2, and who a turntable speaker base suits.
+- [King Lou Pets Treats: What's Inside, What They Cost and How to Handle Raw Dog Treats Safely](https://dealloft.github.io/posts/king-lou-pets-treats-guide.html): What King Lou Pets sells, what the brand claims, what it costs, and what the FDA says about handling raw pet food.
+- [Peekaboo Pillow Guide: Sizes, Price and Safety Notes Before You Buy](https://dealloft.github.io/posts/peekaboo-pillow-guide.html): What the Peekaboo Pillow is, how much it costs, what it is made of, and why it should never be used for sleep.
+- [Which Retroid Pocket Should You Buy in 2026? Pocket 6 vs Pocket 5 vs Nova vs Classic](https://dealloft.github.io/posts/retroid-pocket-guide-2026.html): A plain-English comparison of the Retroid Pocket 6, Pocket 5, Nova and Classic, with current store prices and what each is best for.
